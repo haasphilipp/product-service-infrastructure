@@ -1,6 +1,6 @@
 namespace: ecommerce
 
-replicaCount: 2
+replicaCount: 1
 
 image:
   repository: 207747152118.dkr.ecr.eu-central-1.amazonaws.com/product-service
