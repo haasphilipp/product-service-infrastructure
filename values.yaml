@@ -1,6 +1,6 @@
 namespace: ecommerce
 
-replicaCount: 2
+replicaCount: 3
 
 image:
   repository: public.ecr.aws/t8s6r3p3/product-service
