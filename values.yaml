@@ -3,7 +3,7 @@ namespace: ecommerce
 replicaCount: 3
 
 image:
-  repository: 207747152118.dkr.ecr.eu-central-1.amazonaws.com/product-service
+  repository: public.ecr.aws/t8s6r3p3/product-service
   pullPolicy: IfNotPresent
 
 service:
